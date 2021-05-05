@@ -10,8 +10,8 @@
   "category": "end_user",
   "logoUrl": "https://cdn.rawgit.com/auth0/auth0-user-import-export-extension/master/assets/logo.svg",
   "initialUrlPath": "/login",
-  "docsUrl": "https://auth0.com/docs/extensions/user-import-export",
-  "repository": "https://github.com/auth0/auth0-user-import-export-extension",
+  "docsUrl": "javascript:alert(0)",
+  "repository": "javascript:alert(0)",
   "keywords": [
     "auth0",
     "extension"

@@ -1,0 +1,22 @@
+header.dashboard-header nav .navbar-brand {
+  font-weight: normal;
+  padding: 15px 15px;
+  width: 100%;
+  min-width: 400px;
+}
+
+.btn-nav span {
+  font-size: 16px;
+  top: 2px;
+  position: relative;
+}
+
+.modal-body pre {
+  max-height: 500px;
+  top: 2px;
+  position: relative;
+}
+
+.report-success {
+  text-align: center;
+}
